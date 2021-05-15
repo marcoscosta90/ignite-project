@@ -31,6 +31,7 @@ export function NewTransactionModal({
       amount,
       category,
       type,
+      
     });
 
     setTitle("");
